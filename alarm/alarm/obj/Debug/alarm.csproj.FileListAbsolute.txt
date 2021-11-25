@@ -1,0 +1,10 @@
+C:\Users\eeisc\OneDrive\Masaüstü\BENİM SİLME\github\alarm\alarm\bin\Debug\alarm.exe.config
+C:\Users\eeisc\OneDrive\Masaüstü\BENİM SİLME\github\alarm\alarm\bin\Debug\alarm.exe
+C:\Users\eeisc\OneDrive\Masaüstü\BENİM SİLME\github\alarm\alarm\bin\Debug\alarm.pdb
+C:\Users\eeisc\OneDrive\Masaüstü\BENİM SİLME\github\alarm\alarm\obj\Debug\alarm.csproj.AssemblyReference.cache
+C:\Users\eeisc\OneDrive\Masaüstü\BENİM SİLME\github\alarm\alarm\obj\Debug\alarm.Form1.resources
+C:\Users\eeisc\OneDrive\Masaüstü\BENİM SİLME\github\alarm\alarm\obj\Debug\alarm.Properties.Resources.resources
+C:\Users\eeisc\OneDrive\Masaüstü\BENİM SİLME\github\alarm\alarm\obj\Debug\alarm.csproj.GenerateResource.cache
+C:\Users\eeisc\OneDrive\Masaüstü\BENİM SİLME\github\alarm\alarm\obj\Debug\alarm.csproj.CoreCompileInputs.cache
+C:\Users\eeisc\OneDrive\Masaüstü\BENİM SİLME\github\alarm\alarm\obj\Debug\alarm.exe
+C:\Users\eeisc\OneDrive\Masaüstü\BENİM SİLME\github\alarm\alarm\obj\Debug\alarm.pdb
